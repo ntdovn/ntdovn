@@ -1,6 +1,6 @@
 <!-- Banner rừng mưa phong cách Notion -->
 <p align="center">
-  <img src="https://github.com/ntdovn/ntdovn/blob/main/forest.png" alt="Rainforest Banner" width="100%" />
+  <img src="https://github.com/ntdovn/ntdovn/blob/main/rainforest.png" alt="Rainforest Banner" width="100%" />
 </p>
 
 
