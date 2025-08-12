@@ -23,7 +23,7 @@
 
 | Project Name | Short Description | Technologies |
 |--------------|-------------------|--------------|
-| [**PassCheck**](https://github.com/ntdovn/PassCheck/tree/main) 🔑 | Password strength checker & data breach detector | Python |
+| [**PassCheck**](https://github.com/ntdovn/PassCheck/tree/main) 🔑 | Password strength checker & data breach detector | HTML/CSS/JS |
 
 ---
 
