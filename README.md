@@ -1,6 +1,6 @@
-<!-- Banner với tông xanh rừng + hiệu ứng -->
+<!-- Ảnh pixel art rừng mưa nhiệt đới -->
 <p align="center">
-  <img src="https://i.ibb.co/tpFmbvw/rainforest-banner.gif" alt="Rainforest Banner" width="100%" />
+  <img src="https://i.ibb.co/NZ9dHfG/pixel-rainforest.gif" alt="Pixel Rainforest" width="100%" />
 </p>
 
 <h1 align="center">
