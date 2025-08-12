@@ -1,7 +1,8 @@
 <!-- Banner rừng mưa phong cách Notion -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80" alt="Rainforest Banner" width="100%" style="border-radius:12px;" />
+  <img src="LINK_ẢNH_CỦA_BẠN" alt="Rainforest Banner" width="100%" />
 </p>
+
 
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600;">
   🌿 NGUYEN THANH DO (Carter Fill)
