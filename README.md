@@ -1,52 +1,47 @@
-<!-- Ảnh pixel art rừng mưa nhiệt đới -->
+<!-- Banner rừng mưa phong cách Notion -->
 <p align="center">
-  <img src="https://i.ibb.co/NZ9dHfG/pixel-rainforest.gif" alt="Pixel Rainforest" width="100%" />
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1600&q=80" alt="Rainforest Banner" width="100%" style="border-radius:12px;" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=2E8B57&center=true&vCenter=true&width=800&lines=Hello+World!+Tôi+là+NGUYEN+THANH+DO+(Carter+Fill);Lập+trình+viên+trẻ+%7C+Cybersecurity+Enthusiast;Python+%26+C%2FC%2B%2B+Developer;Yêu+rừng+mưa+%26+khám+phá+thế+giới+số" />
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 600;">
+  🌿 NGUYEN THANH DO (Carter Fill)
 </h1>
+<h3 align="center" style="font-weight: 400; color: #4f4f4f;">
+  Lập trình viên trẻ | Cybersecurity Enthusiast | Python & C/C++
+</h3>
 
 ---
 
 ## 🧑‍💻 Về mình
 - 🎯 Sinh năm **2007**, định hướng theo ngành **An ninh mạng**.
-- 💡 Quan tâm **Pentest**, **Reverse Engineering**, **Secure Coding**.
-- 🌱 Không ngừng học hỏi qua **CTF**, **dự án cá nhân**, và **nghiên cứu bảo mật**.
-- 🌏 Mang tinh thần **"Green Mind in a Digital World"** – giữ trái tim xanh giữa thế giới số.
+- 💡 Quan tâm đến **Pentest**, **Reverse Engineering**, và **Secure Coding**.
+- 🌱 Luôn học hỏi qua **CTF**, dự án cá nhân, và nghiên cứu bảo mật.
+- 🌏 Giữ **tâm trí xanh** giữa thế giới số.
 
 ---
 
-## 🛠 Kỹ năng chính
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-![Networking](https://img.shields.io/badge/-Networking-009639?logo=cisco&logoColor=fff&style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?style=for-the-badge)
+## 🛠 Kỹ năng
+**Ngôn ngữ & Công cụ:**
+- Python, C, C++
+- Linux, Networking
+- Kiến thức cơ bản về Cybersecurity
 
 ---
 
-## 📅 Timeline
+## 📅 Hành trình
 | Năm | Sự kiện |
 |-----|---------|
-| **2022** | Bắt đầu học lập trình (Python & C/C++) |
-| **2023** | Làm quen với Linux & Networking |
-| **2024** | Bước vào thế giới Cybersecurity, tham gia các thử thách CTF |
-| **Tương lai** | Trở thành chuyên gia An ninh mạng, bảo vệ thế giới số 🌍 |
-
----
-
-## 📂 Dự án nổi bật *(sẽ cập nhật)*
-💡 Gợi ý: Showcase tool bảo mật, script tự động hóa, hoặc lab tấn công & phòng thủ.  
-📌 Mỗi repo nên có README, ảnh/gif demo, và hướng dẫn sử dụng.
+| **2022** | Học lập trình (Python & C/C++) |
+| **2023** | Làm quen Linux & Networking |
+| **2024** | Bắt đầu Cybersecurity, tham gia CTF |
+| **Tương lai** | Trở thành chuyên gia An ninh mạng 🌍 |
 
 ---
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carterfill&show_icons=true&theme=vue-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterfill&layout=compact&theme=vue-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carterfill&show_icons=true&theme=vue&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterfill&layout=compact&theme=vue&hide_border=true" height="165" />
 </p>
 
 ---
@@ -57,8 +52,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.ibb.co/Y7p6cbZ/rain-animation.gif" width="100%"/>
-  <br/>
+<p align="center" style="color: #4f4f4f;">
   <i>“Giữ trái tim xanh giữa thế giới số.”</i>
 </p>
