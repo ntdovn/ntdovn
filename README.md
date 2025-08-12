@@ -1,19 +1,19 @@
-<!-- Banner rừng mưa phong cách Notion -->
+<!-- Notion-style Rainforest Banner -->
 <p align="center">
   <img src="https://github.com/ntdovn/ntdovn/blob/main/rainforest.png" alt="Rainforest Banner" width="100%" />
 </p>
 
-<!-- Hiệu ứng mưa rơi nhẹ -->
+<!-- Gentle Rain Animation -->
 <p align="center">
   <img src="https://i.ibb.co/ZNtNwH4/rain-animation.gif" alt="Rain Animation" width="100%" />
 </p>
 
-<!-- Animation gõ chữ -->
+<!-- Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=2E8B57&center=true&vCenter=true&width=900&lines=Hello!+I'm+Carter+Fill;Building+Safe+and+Green+Tech" />
 </h1>
 
-<!-- Divider wave -->
+<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ---
@@ -27,8 +27,8 @@
 
 ---
 
-## 🛠 Kỹ năng
-**Ngôn ngữ:**  
+## 🛠 Skills
+**Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
@@ -39,24 +39,24 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge)
 
-**Công nghệ:**  
+**Technologies:**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Networking](https://img.shields.io/badge/-Networking-009639?logo=cisco&logoColor=fff&style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2E8B57?style=for-the-badge)
 
 ---
 
-## 📅 Hành trình
-| Năm | Sự kiện |
-|-----|---------|
-| **2023** | Bắt đầu học lập trình Python & C/C++ |
-| **2024** | Làm quen Linux, Networking, Web |
-| **2025** | Tham gia CTF, nghiên cứu bảo mật |
-| **Tương lai** | Trở thành chuyên gia An ninh mạng 🌍 |
+## 📅 Journey
+| Year | Milestone |
+|------|-----------|
+| **2023** | Started learning Python & C/C++ |
+| **2024** | Got familiar with Linux, Networking, Web development |
+| **2025** | Participated in CTFs, explored cybersecurity research |
+| **Future** | Aim to become a Cybersecurity Expert 🌍 |
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntdovn&show_icons=true&theme=vue-dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdovn&layout=compact&theme=vue-dark&hide_border=true" height="165" />
@@ -64,12 +64,12 @@
 
 ---
 
-## 📫 Liên hệ
+## 📫 Contact
 - **Email:** [carterfill.vn@gmail.com](mailto:carterfill.vn@gmail.com)  
 - **Website:** [carterfill.publicvm.com](http://carterfill.publicvm.com/)  
 
 ---
 
 <p align="center">
-  <i>“Giữ trái tim xanh giữa thế giới số.”</i>
+  <i>“Keep a green heart in the digital world.”</i>
 </p>
