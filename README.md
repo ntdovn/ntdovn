@@ -18,14 +18,12 @@
 
 ---
 
-## 🚀 Dự án nổi bật
-*(Cập nhật sau link & mô tả dự án)*
+## 🚀 Featured Projects
+*(Links & descriptions to be updated later)*
 
-| Tên dự án | Mô tả ngắn | Công nghệ |
-|-----------|------------|-----------|
-| **SecureLogin** 🔐 | Đăng nhập an toàn chống Brute Force | Python, Flask |
-| **NetScanner** 🌐 | Quét mạng nhanh, đa giao thức | Python, Scapy |
-| **RainShield** ☔ | Firewall tùy chỉnh cho Linux | C, iptables |
+| Project Name | Short Description | Technologies |
+|--------------|-------------------|--------------|
+| [**PassCheck**](https://github.com/ntdovn/PassCheck/tree/main) 🔑 | Password strength checker & data breach detector | Python |
 
 ---
 
