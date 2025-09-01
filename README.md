@@ -56,6 +56,18 @@
 
 ---
 
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a2943013-7002-4d4e-be90-a20553ab24d8/public_url" target="_blank">
+    <img src="https://github.com/ntdovn/ntdovn/blob/main/introduction-to-cybersecurity.png" 
+         alt="Cisco Networking Academy: Introduction to Cybersecurity" 
+         width="150"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntdovn&show_icons=true&theme=vue-dark&hide_border=true" height="165" />
