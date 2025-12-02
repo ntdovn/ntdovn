@@ -23,7 +23,7 @@
 
 | Project Name | Short Description | Technologies |
 |--------------|-------------------|--------------|
-| [**PassCheck**](https://github.com/ntdovn/PassCheck) 🔑 | Password strength checker & data breach detector | HTML/CSS/JS |
+| [**PassCheck**](https://github.com/ntdovn/PassCheck) 🔑 | Password strength checker & data breach detec | [*Review*](https://passcheck.carterfill.me) |
 
 ---
 
