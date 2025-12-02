@@ -23,7 +23,7 @@
 
 | Project Name | Short Description | Technologies |
 |--------------|-------------------|--------------|
-| [**PassCheck**](https://github.com/ntdovn/PassCheck/tree/main) 🔑 | Password strength checker & data breach detector | HTML/CSS/JS |
+| [**PassCheck**](https://github.com/ntdovn/PassCheck) 🔑 | Password strength checker & data breach detector | HTML/CSS/JS |
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## 📫 Contact
 - **Email:** [carterfill.vn@gmail.com](mailto:carterfill.vn@gmail.com)  
-- **Website:** [carterfill.publicvm.com](http://carterfill.publicvm.com/)  
+- **Website:** [carterfill.me](http://carterfill.me)  
 
 ---
 
