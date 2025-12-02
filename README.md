@@ -21,9 +21,9 @@
 ## 🚀 Featured Projects
 *(Links & descriptions to be updated later)*
 
-| Project Name | Short Description | Technologies |
+| Project Name | Short Description | Review |
 |--------------|-------------------|--------------|
-| [**PassCheck**](https://github.com/ntdovn/PassCheck) 🔑 | Password strength checker & data breach detec | [*Review*](https://passcheck.carterfill.me) |
+| [**PassCheck**](https://github.com/ntdovn/PassCheck) | Password strength checker & data breach detec | [*Review*](https://passcheck.carterfill.me) |
 
 ---
 
